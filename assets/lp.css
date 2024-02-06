@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.header-container {
+    border: 1px solid blue;
+    display: flex;
+    justify-content: center;
+}
+.header {
+    width: 900px;
+    display: flex;
+    justify-content: space-between;
+}
+.links {
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+}
