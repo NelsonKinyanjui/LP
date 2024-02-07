@@ -2,11 +2,13 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: #1F2937;
 }
 .header-container {
-    border: 1px solid blue;
     display: flex;
     justify-content: center;
+    color: whitesmoke;
+    
 }
 .header {
     width: 900px;
@@ -22,7 +24,7 @@
  a {
     text-decoration: none;
     font-size: 30px;
-    color: black;
+    color: whitesmoke;
  }
 .logo {
     font-size: 40px;
@@ -31,11 +33,20 @@
     font-size: 30px;
 }
 .info-container {
-    border: 1px solid blue;
+    
+    color: whitesmoke;
     height: 300px;
     display: flex;
     justify-content: space-between;
     align-items: center;
     width: 900px;
     margin: auto;
+    
+}
+.name {
+    font-size: 30px;
+    font-weight: bold;
+}
+.intro p {
+    font-size: 25px;
 }
