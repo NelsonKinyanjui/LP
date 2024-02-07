@@ -17,4 +17,25 @@
     width: 300px;
     display: flex;
     justify-content: space-between;
+    
+}
+ a {
+    text-decoration: none;
+    font-size: 30px;
+    color: black;
+ }
+.logo {
+    font-size: 40px;
+}
+.span {
+    font-size: 30px;
+}
+.info-container {
+    border: 1px solid blue;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 900px;
+    margin: auto;
 }
