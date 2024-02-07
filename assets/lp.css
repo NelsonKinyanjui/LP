@@ -50,3 +50,12 @@
 .intro p {
     font-size: 25px;
 }
+button{
+    background-color: #3882F6;
+    color: whitesmoke;
+    border: none;
+    font-size: 20px;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
