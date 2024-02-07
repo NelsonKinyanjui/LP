@@ -59,3 +59,29 @@ button{
     border-radius: 5px;
     margin-top: 10px;
 }
+.gallery-container {
+    background-color: whitesmoke;
+    margin-bottom: 50px;
+}
+.gallery-container .photos{
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: space-around;
+    margin: 30px 400px 30px 400px;
+    
+}
+.headline{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
+figure {
+    margin-bottom: 80px;
+    margin-top: 40px;
+
+}
+figure img {
+    border: 5px solid #3882F6;
+    border-radius: 10px;
+}
